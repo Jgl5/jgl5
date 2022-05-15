@@ -9,8 +9,8 @@
 
 ### Connect With Me
 
-[<img align="left" alt="LinkedIn" width="22px" src=""/>][linkedin]
-[<img align="left" alt="Kaggle" width="22px" src=""/>][kaggle]
+<!-- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg"/>][linkedin]
+[<img align="left" alt="Kaggle" width="22px" src=""/>][kaggle] -->
 
 <br />
 
