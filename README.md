@@ -9,27 +9,25 @@
 
 ### Connect With Me
 
-<!-- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg"/>][linkedin]
-[<img align="left" alt="Kaggle" width="22px" src=""/>][kaggle] -->
-
+[<img align="left" alt="linkedIn-icon" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />]
+[<img align="left" alt="Kaggle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />]
+          
 <br />
 
 ### Languages and Tools:
 
-<!-- [<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.15.1/icons/python/python.svg"/>] -->
-
-<!-- [<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/"/>]
-[<img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/"/>]
-[<img align="left" alt="Rust" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/"/>] -->
-
-[<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>]
-[<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"/>]
-[<img align="left" alt="PyTorch" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg"/>]
-
-<!-- [<img align="left" alt="Keras/TensorFlow" width="22px" src=""/>]
-[<img align="left" alt="SQL" width="22px" src=""/>]
-[<img align="left" alt="AWS" width="22px" src=""/>]
-[<img align="left" alt="GCP" width="22px" src=""/>] -->
+[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;"/>]
+[<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />]
+[<img align="left" alt="cplusplus" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" style="padding-right:10px;"  />]
+[<img align="left" alt="Rust" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" style="padding-right:10px;" />]
+&nbsp;&nbsp;
+[<img align="left" alt="TensorFlow" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="padding-right:10px;" />]
+[<img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />]
+[<img align="left" alt="AWS" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;"/>]
+[<img align="left" alt="GCP" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" style="padding-right:10px;" />]
 
 <br />
 <br />
