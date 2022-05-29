@@ -9,8 +9,9 @@
 
 ### Connect With Me
 
-<img align="left" alt="linkedIn-icon" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
-<img align="left" alt="Kaggle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />
+[<img align="left" alt="linkedIn-icon" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />](https://www.linkedin.com/in/-jesus)
+[<img align="left" alt="Kaggle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />](https://www.kaggle.com/lopezjesus)
+          
           
 <br />
 
