@@ -5,7 +5,7 @@
 - My latest project is a model that predicts future NYC apartments sale values
 - I am currently learning about Machine Learning Explainability
 - I am interested in collaborating on projects utilizing StyleGAN version 3.0
-- Fun fact: I am training for an Iron Man competition in mid-2023.
+- Fun fact: I got comfortable with shell terminals by playing MUDs like Aardwolf.
 
 ### Connect With Me
 
