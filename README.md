@@ -28,7 +28,6 @@
 <img align="left" alt="PyTorch" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" style="padding-right:5px;" />
 <img align="left" alt="TensorFlow" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:5px;"/>
-<img align="left" alt="GCP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" style="padding-right:5px;" />
 
 <br />
 <br />
